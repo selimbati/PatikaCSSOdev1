@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.baslik {
+  display: flex;
+  justify-content: center;
+}
+
+.baslik h4 {
+  margin-left: 22px;
+}
+
+a {
+  text-decoration:none;
+  color: rgb(199, 161, 112);
+}
+
+h1 {
+  color: deepskyblue;
+}
+
+h3 {
+  color: red;
+}
+
+h2 {
+  color: red;
+}
+
+h4 {
+  color: red;
+}
+
+h5 {
+  color: gold;
+}
